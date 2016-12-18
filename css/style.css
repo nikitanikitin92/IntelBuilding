@@ -100,6 +100,12 @@ p {
 	margin-bottom: 10px;
 }
 
+.blog-media .owl-carousel .owl-item img{
+	height: 500px !important;
+	width: auto !important;
+	margin: 0 auto;
+}
+
 
 blockquote {
 	float:left;
