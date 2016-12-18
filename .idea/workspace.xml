@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03dc8c8e-84a7-479b-8e9c-c9212062add0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/16. Диспетчеризация/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/03298_90.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/1 (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/14. Управление доступом/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/1-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/front_page/1-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/9. Охранная сигнализация/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/3. Монтаж/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/1.Энергоснабжение/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/10. Пожарная сигнализация/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/11. Оповещение и эвакуация/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/2.Освещение/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/3.Климат/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/4. Интернет/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/5. Телефония/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/6. Телевидение/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/8. Мультирум/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/1039482022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/18. Защита от протечек/1369976532_neptun-kontrol-ot-protechki.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/1460699068_foto-kamery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/2.Освещение/148_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/179252de749db60be294ea1d95c5fbcf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/1_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/2-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/front_page/2-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/9. Охранная сигнализация/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/6. Телевидение/2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/1.Энергоснабжение/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/10. Пожарная сигнализация/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/11. Оповещение и эвакуация/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/2.Освещение/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/3.Климат/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/4. Интернет/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/5. Телефония/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/7. Домашний кинотеатр/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/20130228_121459.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/7. Домашний кинотеатр/23124.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/14. Управление доступом/278fcd62db.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/18. Защита от протечек/2823.970x0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/2_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/3-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/front_page/3-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/9. Охранная сигнализация/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/5. Телефония/3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/1.Энергоснабжение/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/10. Пожарная сигнализация/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/11. Оповещение и эвакуация/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/2.Освещение/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/3.Климат/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/4. Интернет/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/6. Телевидение/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/8. Мультирум/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/8. Мультирум/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/3234.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/3323.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/3. Монтаж/3V8rGEyi3NeMSMytV4tV252-JPxXblYA_Pnot0Rlicc-1440x564_c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/4-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/front_page/4-min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/4. Интернет/4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/1.Энергоснабжение/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/10. Пожарная сигнализация/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/11. Оповещение и эвакуация/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/2.Освещение/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/5. Телефония/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/6. Телевидение/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/8. Мультирум/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/9. Охранная сигнализация/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/7. Домашний кинотеатр/411control4.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/447018550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/14. Управление доступом/44d3f7_ec719c09ff1242be9a34c551a431cc3c-Copy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/4592ed7c175e8bf823590e77e07f8dea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/47402.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/3.Климат/4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/11. Оповещение и эвакуация/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/2.Освещение/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/3.Климат/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/4. Интернет/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/5. Телефония/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/6. Телевидение/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/9. Охранная сигнализация/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/7. Домашний кинотеатр/54545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/5_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/5bdbe17028218d5258e633629e42b1b6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/4. Интернет/6.jpg-large" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/11. Оповещение и эвакуация/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/3.Климат/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/6e1db189971c2cbb3c438c7269d5cc4a28954b7a.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/7667.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/14. Управление доступом/9461302_L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/9c424a3f2a60a69ced6dfee2eed10819.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/Aannemer_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/BVPC_850-0_E_S_Panel_Wand_100er_18121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/Bassingbourne Cantilever L (1 of 1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/DS216J.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/DS3617xs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/Digitha DDVC-08 VR_Front_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/Display_psd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/Home-Automation-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/ICSG201209023-02_300dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/LBG-5-TC-offen-neuer-screen-e1457520666740.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/Logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/Network-Design.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/2.Согласование/Rabochiy-proekt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/14. Управление доступом/SKUD-schity-vatel-v-Har-kove.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/SmartHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/Thangram_incasso_bassa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/WP-CLI-and-Cloud-Server.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/access1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/access2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/access3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/access4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/access5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/access6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/18. Защита от протечек/akvastorozh-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/alarm1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/alarm2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/alarm3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/alarm4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/alarm5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/alarm6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/1.Проетирование/artleo.com-98794.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/18. Защита от протечек/avtomaticheskaya-sistema-zashchity-doma-ot-zatopleniya-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/bg02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/bkg_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/bkg_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/bkg_30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/16. Диспетчеризация/bms.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/9. Охранная сигнализация/c87f4f_c8658d1e650141f89aaf003b7724a196-mv2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/cas265.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/cctv-alarm-integration.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/cinema1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/cinema2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/cinema3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/cinema4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/cinema5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/cinema6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/climate1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/climate2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/climate3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/climate4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/climate5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/coordination_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/curt9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/data7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/design_bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/disp1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/disp2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/disp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/disp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/domo7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/drain1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/drain2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/drain3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/drain4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/drain5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/drain6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/efdc248dc29d4270f0f8bb2a6ecf8515.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/effd244800aaf6d148ebfcaff8e381f1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/14. Управление доступом/ekey_integra_2_rote_Tuer_12cm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/5. Обслуживание/electrik.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/energo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/energo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/energo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/fire1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/fire2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/fire3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/fire4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/fk09_2014_FKIE_On the way to a safe and secure Smart Home_g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/full_giFpEq59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/13. Домофония/gira_tuerstation_edelstahl_2_585_1145543432.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/iBezel-House1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/iDock-LBA-5-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/iPhone-5-White-3D-view-MockUp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/iPhone-5-White-3D-view-MockUp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/iPhone6_dribbble.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/iTop-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/idock-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/idock-031.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/idock-touchcode-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/image-woman-man-sw-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/img1417586644_1521227341308737.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/inet1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/inet2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/inet3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/inet4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/inet5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/inet6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/installation_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/inteLogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/ipad-mockup1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/ipad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/kartinkijane.ru-63510.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/7. Домашний кинотеатр/kino-fixdock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/lighting1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/lighting2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/lighting3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/lighting4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/lighting5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/lighting6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/macbook-air-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/macbook-air-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/macbook-air-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/main_image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/maint1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/3. Монтаж/maxresdefault.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/maxresdefault.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/mp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Интерфейсы Iridium/mp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/multiroom1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/multiroom2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/multiroom3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/multiroom4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/5. Обслуживание/oe_simtech_moodul_kontaktid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/page0114.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/phone1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/phone2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/phone3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/phone4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/phone5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/pool_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/raspashnye-vorota.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/rs815-.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/security1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/security2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/security3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/security4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/security5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/security6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/setevoe_hranilische_nas_qnap_ts-1679u-rp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/settings_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/18. Защита от протечек/shop6684.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/sl14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/15. Хранение данных/slide2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/somfy46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/team-member1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/team-member2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/team-member3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/themeforest-16395408-firenze-responsive-architecture-architect-template.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/tv1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/tv2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/tv3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/tv4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/tv5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/uniDock-hospitality-image-001-1024x683.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/uniDock_Kueche.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/uniDock_silver_lifestyle-1024x683.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/16. Диспетчеризация/vent_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart/video7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/17. Шторы и ворота/vorota-chertezh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/12. Видеонаблюдение/why-choose-us-to-install-your-office-cctv1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/7. Домашний кинотеатр/winwalls.ru-4096.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/zem003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/16. Диспетчеризация/Верстка блока.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/3/Документ Microsoft Word.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/2/Дом в Московской области.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/Заголовок.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/5. Наши работы/1/Квартира в центре москвы.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/Кто мы.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/3. Монтаж/Монтаж.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/4.Настройка/Настройка.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/5. Обслуживание/Обслуживание.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/картинки общие/Опросный лист_Intelliger.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/1.Проетирование/Проектирование-электроснабжения.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/1.Проетирование/Проектирование.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/4.Настройка/Сервера2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/1.Услуги/2.Согласование/Согласование.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/2.Умный Дом/18. Защита от протечек/Эксплуатация-меры-предосторожности-для-датчиков-протечик-воды.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/3.О нас/совещание.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coordination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/installation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/smarthome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+    </list>
+    <ignored path="IntelBuilding.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="IntelBuilding" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.70383275">
+              <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="20" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="487" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.745098">
+              <caret line="155" column="70" selection-start-line="155" selection-start-column="70" selection-end-line="155" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="installation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/installation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7647059">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coordination.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coordination.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7647059">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="204" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="design.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5686274">
+              <caret line="187" column="39" selection-start-line="187" selection-start-column="39" selection-end-line="187" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.925926">
+              <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/coordination.html" />
+        <option value="$PROJECT_DIR$/installation.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/settings.html" />
+        <option value="$PROJECT_DIR$/design.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/smarthome.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelBuilding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/IntelBuilding/about.html&#10;desig&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/IntelBuilding/design.html&#10;setting&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/IntelBuilding/settings.html&#10;inst&#9;FILE&#9;file:///Users/sabir/Documents/GitHub/IntelBuilding/installation.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/about" />
+      <recent name="$PROJECT_DIR$/images/smart" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/front_page" />
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03dc8c8e-84a7-479b-8e9c-c9212062add0" name="Default" comment="" />
+      <created>1482082549225</created>
+      <option name="number" value="Default" />
+      <updated>1482082549225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="716" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/about2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="204" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coordination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7647059">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/installation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7647059">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.925926">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.745098">
+          <caret line="155" column="70" selection-start-line="155" selection-start-column="70" selection-end-line="155" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5686274">
+          <caret line="187" column="39" selection-start-line="187" selection-start-column="39" selection-end-line="187" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="487" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smarthome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11149826">
+          <caret line="470" column="64" selection-start-line="470" selection-start-column="64" selection-end-line="470" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="53" column="59" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70383275">
+          <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

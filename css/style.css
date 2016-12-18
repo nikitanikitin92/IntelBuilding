@@ -87,10 +87,20 @@ p {
 	font-weight:400;
 }
 .big-parag {
-	font-size: 21px;
+	/*font-size: 21px;*/
+	font-size: 18px;
 	font-weight:300;
 	line-height: 1.5;
 }
+
+.ab-min-wrap h3{
+	font-size: 18px;
+	text-align: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
 blockquote {
 	float:left;
 	padding: 10px 20px;
