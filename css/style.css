@@ -860,8 +860,21 @@ header{
 	position:relative;
 	text-align:left;
 	font-weight:700;
+    cursor: pointer;
 	font-family: 'Montserrat', sans-serif;
 }
+
+#services_link{
+    color:#000;
+    font-size:12px;
+    text-transform:uppercase;
+    position:relative;
+    text-align:left;
+    font-weight:700;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
 .nav-holder nav li a.active {
 	color:#ccc;
 }
@@ -948,7 +961,8 @@ header{
 	top:50%;
 	left:8px;
 	height:1px;
-	width:7px;
+	/*width:7px;*/
+	width:14px;
 	background:#000;
 	opacity:0.3;
 }
@@ -959,7 +973,8 @@ header{
 	left:50%;
 	margin-left:-0.5px;
 	width:1px;
-	height:7px;
+	height:11px;
+	/*height:7px;*/
 	background:#000;
 }
 .nav-holder nav li:hover .nav-dec:before  {
